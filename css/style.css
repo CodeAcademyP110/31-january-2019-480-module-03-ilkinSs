@@ -1,0 +1,302 @@
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+body {
+	background: #953e46;
+	margin: 0;	
+	border: 5px solid #fff;
+	font-family: arial;		
+}
+
+header p .social {
+	font-weight: lighter;
+}
+
+header {
+	margin-top: 15px;
+}
+
+header p {
+	vertical-align: middle;
+	color: #f4e3cf;
+	font-size: 50px;
+	display: inline-block;
+}
+.find {
+	display: inline-block;
+	width: 400px;
+	background-color: #f4e3cf;
+	padding: 10px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+
+}
+
+.button {
+	width: 150px;
+	height: 100%;
+	padding: 10px;
+	background-color: #f4e3cf;
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.username {
+	width: 150px;
+	height: 40px;
+		display: inline-block;
+	vertical-align: middle;
+	margin-left: 5px;
+}
+
+.namefam p{
+	font-size: 12px;
+	
+	color: #f4e3cf;
+}
+.icon5 {
+	width: 40px;
+	height: 38px;
+	background-color: #f4e3cf;
+	display: inline-block;
+}
+.namefam {
+	width: 100px;
+	height: 39px;
+	
+	margin-left: 3px;
+	display: inline-block;
+}
+.p-ilkin {
+	margin-top: -10px;
+}
+.p-sardarov {
+	margin-top: 0px;
+}
+#menu {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid	white;
+	border-bottom: 1px solid	white;
+	padding-left: 0px;
+}
+
+#menu ul li {
+	color: #f4e3cf;
+	display: inline-block;
+	margin-left: 20px;
+	padding-left: 0px;
+
+}
+
+#menu ul {
+	padding-left: 0px;
+
+}
+
+#menu a{
+	color: #f4e3cf
+}
+.content {
+	
+	width: 800px;
+	height: 500px;
+	margin-right: 10px;
+	margin-top: 10px;
+	float: left;
+}
+.content:first-child (){
+margin-top: 0;
+}
+
+
+.news {
+	width: 380px;
+	height: 500px;
+	background: #953e46;
+	border-top: 3px solid #f4e3cf;
+	border-bottom:1px solid #f4e3cf ;
+	float: left;
+}
+
+.newsblok p {
+	color: #f4e3cf;
+}
+.clear {
+	clear: both;
+}
+
+.yuxari {
+	height: 340px;
+	margin-bottom:5px;
+}
+
+.awagi {
+	
+	height: 150px;
+}
+
+.solboyuk {
+	width: 524px;
+	margin-right: 5px;
+	height: 340px;
+	background-color: #f4e3cf;
+	float: left;
+}
+
+.sagbalacalar {
+    width: 269px;
+    height: 340px;
+    float: left;
+}
+
+.balacayuxari1 {
+	height: 170px;
+	background-color: #f4e3cf;
+	margin-bottom: 5px;
+}
+
+.balacayuxari2 {
+	height: 165px;
+	background-color: #f4e3cf;
+	margin-bottom: 5px;
+	
+}
+.clear {
+	clear: both;
+}
+
+.awagikubikler1 {
+	height: 155px;
+	width: 260px;
+	background-color: #f4e3cf;
+	float:left;
+}
+
+.awagikubikler2 {
+	height: 155px;
+	width: 260px;
+	margin-left: 5px;
+	background-color: #f4e3cf;
+	float:left;
+}
+
+.awagikubikler3 {
+	height: 155px;
+	width: 268px;
+	margin-left: 5px;
+	background-color: #f4e3cf;
+	float:left;
+}
+
+.clear {
+	clear: both;
+}
+
+.newsblok{
+	width: 380px;
+	height: 70px;
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.image {
+	width: 85px;
+	height: 70px;
+	background-color: #f4e3cf;
+	margin-right: 5px;
+	float: left;
+}
+
+.title {
+	width: 290px;
+	height: 70px;
+	 
+	float: left;
+}
+
+p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.channels {
+	width: 380px;
+	height: 700px;
+	background: #953e46;
+	margin-top: 10px;
+	border-top: 3px solid #f4e3cf;
+	border-bottom: 3px solid #f4e3cf;
+	float: left;
+}
+
+.canals {
+	margin-top: 10px;
+	width: 380px;
+	height: 115px; 		
+	background: #953e46;
+}
+
+.first-canal {
+	width: 185px;
+	height: 115px;
+	background: #f4e3cf;
+	float: left;
+	
+}
+
+.second-canal {
+	width: 185px;
+	height: 115px;
+	background: #f4e3cf;
+	float: left;
+	margin-left: 10px;
+}
+.documents {
+	margin-top: -190px;
+}
+
+footer {
+	margin-top: 20px;
+	
+	height: 250px;
+	border-top: 2px solid #fff;
+
+}
+
+footer ul li {
+	margin-top: 25px;
+	margin-left: 0px;
+	display: inline-block;
+	text-align: left;
+	color: #f4e3cf;
+}
+
+.footer-icons {
+	width: 30px;
+	height: 30px;
+
+	
+}
+
+footer a {
+	color: #f4e3cf;
+}
+
+footer p {
+	padding-left: 0px;
+	color: #f4e3cf;
+}
+footer .privacy-terms li {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+footer .privacy-terms {
+	margin-top: 5px;
+}
+footer ul{
+	padding-left: 0px;
+}
